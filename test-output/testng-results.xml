@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="task by packages" duration-ms="19727" started-at="2023-06-26T10:33:07 EET" finished-at="2023-06-26T10:33:27 EET">
+    <groups>
+    </groups>
+    <test name="tests" duration-ms="19727" started-at="2023-06-26T10:33:07 EET" finished-at="2023-06-26T10:33:27 EET">
+      <class name="tests.TestCases">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.TestCases@543788f3]" name="beforeClass" is-config="true" duration-ms="4052" started-at="2023-06-26T10:33:07 EET" finished-at="2023-06-26T10:33:11 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="case1_validatePlansKuwait()[pri:0, instance:tests.TestCases@543788f3]" name="case1_validatePlansKuwait" duration-ms="5404" started-at="2023-06-26T10:33:11 EET" finished-at="2023-06-26T10:33:17 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1_validatePlansKuwait -->
+        <test-method status="PASS" signature="case2_validatePlansSaudi()[pri:0, instance:tests.TestCases@543788f3]" name="case2_validatePlansSaudi" duration-ms="1389" started-at="2023-06-26T10:33:17 EET" finished-at="2023-06-26T10:33:18 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2_validatePlansSaudi -->
+        <test-method status="PASS" signature="case3_validatePlansBahrain()[pri:0, instance:tests.TestCases@543788f3]" name="case3_validatePlansBahrain" duration-ms="2752" started-at="2023-06-26T10:33:18 EET" finished-at="2023-06-26T10:33:21 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case3_validatePlansBahrain -->
+        <test-method status="PASS" signature="case4_validatePlansKuwaitWhenArabic()[pri:0, instance:tests.TestCases@543788f3]" name="case4_validatePlansKuwaitWhenArabic" duration-ms="5966" started-at="2023-06-26T10:33:21 EET" finished-at="2023-06-26T10:33:27 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case4_validatePlansKuwaitWhenArabic -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.TestCases@543788f3]" name="afterClass" is-config="true" duration-ms="119" started-at="2023-06-26T10:33:27 EET" finished-at="2023-06-26T10:33:27 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.TestCases -->
+    </test> <!-- tests -->
+  </suite> <!-- task by packages -->
+</testng-results>
